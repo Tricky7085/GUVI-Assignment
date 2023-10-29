@@ -1,0 +1,16 @@
+body {
+    background-color: #c0bec4;
+    text-align: center;
+}
+.container {
+    margin-top: 100px;
+}
+h1 {
+    font-size: 2.5rem;
+}
+p {
+    font-size: large;
+}
+.btn {
+    margin: 5px;
+}

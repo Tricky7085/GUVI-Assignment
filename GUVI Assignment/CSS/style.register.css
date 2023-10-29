@@ -1,0 +1,17 @@
+body {
+    background-color: #c0bec4;
+    text-align: center;
+}
+.container {
+    margin-top: 100px;
+    width: 300px;
+}
+h2 {
+    font-size: 2rem;
+}
+.form-group {
+    margin-top: 20px;
+}
+.btn {
+    margin-top: 10px;
+}
